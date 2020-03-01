@@ -1,0 +1,21 @@
+#head-section {
+    background: url(../img/simple.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+     min-height: 700px;
+}
+#head-section .dark-overlay {
+    position: relative;
+    top: 0;
+    left: 0;
+    min-height: 700px;
+    width: 100%;
+    background: rgba(0,0,0, 0.5);
+}
+#head-section .container {
+    color: #fff;
+}
+#head-section .container #text-dis{
+    padding-top: 180px;
+}
